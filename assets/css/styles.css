@@ -3,3 +3,7 @@ body {
     background-image: url(../images/background-img.jpg);
 }
 p {font-weight: bold;}
+
+.text-center {
+    text-align: center;
+}
